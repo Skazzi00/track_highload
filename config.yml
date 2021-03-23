@@ -1,0 +1,6 @@
+---
+proxy:
+  port: 9000
+  bypass:
+    host: http://mipt-telecom.ru
+    port: 80
